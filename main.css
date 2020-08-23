@@ -1336,7 +1336,7 @@ grid-gap: 15rem;
     .menu-toggler{
         position: absolute;
         top: 2rem;
-        right: 2rem;
+        right: 1rem;
     
 }
 .portfolio-item{
